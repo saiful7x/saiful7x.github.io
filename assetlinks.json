@@ -1,0 +1,8 @@
+/[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.saiful.vaultgem",
+        "sha256_cert_fingerprints": ["7A:17:EB:AD:D0:40:34:BF:2D:D1:03:30:ED:D0:58:62:03:96:3B:42:01:C0:79:B4:90:5C:DF:EB:3D:8C:FC:27"]
+      }
+    }]
