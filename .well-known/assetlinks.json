@@ -6,14 +6,7 @@
     "sha256_cert_fingerprints": [
       "[{
   "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.saiful.galaxystriker",
-    "sha256_cert_fingerprints": [
-      "36:44:33:AC:4D:17:05:27:20:07:3B:F9:03:AF:CE:50:3C:78:B7:68:95:85:5E:91:AA:43:E0:7F:32:08:B7:B5"
-    ]
-  }
-}]"
+  "36:44:33:AC:4D:17:05:27:20:07:3B:F9:03:AF:CE:50:3C:78:B7:68:95:85:5E:91:AA:43:E0:7F:32:08:B7:B5"
     ]
   }
 }]
