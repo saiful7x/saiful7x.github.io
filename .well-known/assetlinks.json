@@ -4,31 +4,16 @@
     "namespace": "android_app",
     "package_name": "com.saiful.galaxystriker",
     "sha256_cert_fingerprints": [
-      "Alias name: android
-Creation date: Nov 20, 2026
-Entry type: PrivateKeyEntry
-Certificate chain length: 1
-Certificate[1]:
-Owner: CN=Galaxy Striker, OU=Mobile, O=Developer, L=Dhaka, ST=Dhaka, C=BD
-Issuer: CN=Galaxy Striker, OU=Mobile, O=Developer, L=Dhaka, ST=Dhaka, C=BD
-Serial number: b927dd61e1d8b041
-Valid from: Fri Nov 20 15:07:38 UTC 2026 until: Tue Apr 07 15:07:38 UTC 2054
-Certificate fingerprints:
-	 SHA1: 05:99:37:40:8C:AF:AA:1C:B0:24:67:56:98:9A:EF:0E:67:74:D4:A4
-	 SHA256: 36:44:33:AC:4D:17:05:27:20:07:3B:F9:03:AF:CE:50:3C:78:B7:68:95:85:5E:91:AA:43:E0:7F:32:08:B7:B5
-Signature algorithm name: SHA256withRSA
-Subject Public Key Algorithm: 2048-bit RSA key
-Version: 3
-
-Extensions: 
-
-#1: ObjectId: 2.5.29.14 Criticality=false
-SubjectKeyIdentifier [
-KeyIdentifier [
-0000: F1 1C 98 DD 4B 4F 52 8C   A3 99 1A 1E 74 D2 A1 CF  ....KOR.....t...
-0010: 72 FA B0 C8                                        r...
-]
-]"
+      "[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.saiful.galaxystriker",
+    "sha256_cert_fingerprints": [
+      "36:44:33:AC:4D:17:05:27:20:07:3B:F9:03:AF:CE:50:3C:78:B7:68:95:85:5E:91:AA:43:E0:7F:32:08:B7:B5"
+    ]
+  }
+}]"
     ]
   }
 }]
